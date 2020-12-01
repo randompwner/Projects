@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boggle/Boggle.iml" filepath="$PROJECT_DIR$/Boggle/Boggle.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameOfLife/GameOfLife.iml" filepath="$PROJECT_DIR$/GameOfLife/GameOfLife.iml" />
       <module fileurl="file://$PROJECT_DIR$/HuffmanCoding/HuffmanCoding.iml" filepath="$PROJECT_DIR$/HuffmanCoding/HuffmanCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/PhoneBook/PhoneBook.iml" />
